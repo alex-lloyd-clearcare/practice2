@@ -9,3 +9,6 @@ def anotherFunction():
 
 def test():
     return 0
+
+def anotherTest():
+    return 0
