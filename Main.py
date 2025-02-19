@@ -4,5 +4,8 @@ print('hello world')
 def myFunction():
     return 0
 
-def anitherFunction():
+def anotherFunction():
+    return True
+
+def test():
     return 0
