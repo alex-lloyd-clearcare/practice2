@@ -6,9 +6,3 @@ def myFunction():
 
 def anotherFunction():
     return True
-
-def test():
-    return 0
-
-def anotherTest():
-    return 0
